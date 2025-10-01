@@ -1,3 +1,37 @@
+Nätverksrapport - Techcorp AB
+
+Senast uppdaterad: 2024-10-01T10:30:00
+
+Executive Summary
+------------------
+
+ENHETER MED PROBLEM
+--------------------
+
+ENHETER MED LÅG UPTIME (<30 dagar)
+-----------------------------------
+
+STATISTIK PER ENHETSTYP
+------------------------
+
+PORTANVÄNDNING SWITCHAR
+------------------------
+
+SWITCHAR MED HÖG PORTANVÄNDNING (>80%)
+----------------------------------------
+
+VLAN-ÖVERSIKT
+-------------
+
+STATISTIK PER SITE
+------------------
+
+ACCESS POINTS - KLIENTÖVERSIKT
+-------------------------------
+
+REKOMMENDATIONER
+----------------
+
 
 Huvudkontor
 
