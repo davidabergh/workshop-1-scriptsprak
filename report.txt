@@ -8,8 +8,44 @@ Executive Summary
 ENHETER MED PROBLEM
 --------------------
 
+Status: WARNING
+
+AP-FLOOR2-02   192.168.20.102   access_point   Huvudkontor   (uptime: 2dagar)
+
+RT-LAGER-01   192.168.2.254   router   Lager   (uptime: 2dagar)
+
+SW-DC-TOR-02   10.0.1.2   switch   Datacenter   (uptime: 5dagar)
+
+
+Status: OFFLINE
+
+SW-ACCESS-03    192.168.1.5     switch      Huvudkontor 
+
+AP-LAGER-02     192.168.200.102 access_pointLager       
+
+STATISTIK PER ENHETSTYP
+-------------------------
+Typ               Antal
+--------------------------
+Access Point      9
+Firewall          5
+Load Balancer     2
+Router            6
+Switch            18
+
 ENHETER MED LÅG UPTIME (<30 dagar)
 -----------------------------------
+
+Host              IP              Typ         Plats           Uptime
+SW-ACCESS-03      192.168.1.5     switch      Huvudkontor   0 dagar
+SW-ACCESS-05      192.168.1.7     switch      Huvudkontor   15 dagar
+AP-FLOOR2-01      192.168.20.101  access_pointHuvudkontor   12 dagar
+AP-FLOOR2-02      192.168.20.102  access_pointHuvudkontor   2 dagar
+SW-LAGER-02       192.168.2.2     switch      Lager         23 dagar
+RT-LAGER-01       192.168.2.254   router      Lager         2 dagar
+AP-LAGER-02       192.168.200.102 access_pointLager         0 dagar
+SW-MAL-ACC-02     192.168.3.3     switch      Kontor Malmö  8 dagar
+SW-DC-TOR-02      10.0.1.2        switch      Datacenter    5 dagar
 
 STATISTIK PER ENHETSTYP
 ------------------------
