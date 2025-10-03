@@ -5,6 +5,12 @@ Senast uppdaterad: 2024-10-01T10:30:00
 Executive Summary
 ------------------
 
+Huvudkontor: 15 enheter (13 online, 1 offline)
+Lager: 5 enheter (3 online, 1 offline)
+Kontor Malmö: 7 enheter (7 online, 0 offline)
+Datacenter: 10 enheter (9 online, 0 offline)
+Säkerhetskopia: 3 enheter (3 online, 0 offline)
+
 ENHETER MED PROBLEM
 --------------------
 
@@ -53,11 +59,15 @@ STATISTIK PER ENHETSTYP
 PORTANVÄNDNING SWITCHAR
 ------------------------
 
+Switch-portar totalt: 541/676 (80.0%), ledigt: 135
+
 SWITCHAR MED HÖG PORTANVÄNDNING (>80%)
 ----------------------------------------
 
 VLAN-ÖVERSIKT
 -------------
+
+10, 20, 30, 40, 50, 100, 110, 120, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 2000, 2100
 
 STATISTIK PER SITE
 ------------------
