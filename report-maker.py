@@ -151,16 +151,7 @@ report += "ACCESS POINTS - KLIENTÖVERSIKT\n-------------------------------\n\n"
 
 report += "REKOMMENDATIONER\n----------------\n\n"
 
-# loop through the location list
-for location in data["locations"]:
-    # add the site/'name' of the report
-    
-    report+= "\n" + location["site"] + "\n" + "\n"
-    
-    # add a list of the host names of the devices on the report
-    # on the location to the report
-    for device in location["devices"]:
-        report += "  " + device["hostname"] + "\n"
+
 
 # write the report to text file
 with open('report.txt', 'w', encoding='utf-8') as f:
